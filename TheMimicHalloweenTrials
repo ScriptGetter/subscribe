@@ -1,0 +1,7 @@
+if game.PlaceId == 7633631103 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptGetter/Mimic1/main/TheMimic"))()
+elseif game.PlaceId == 7633631351 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptGetter/Mimic2/main/TheMimic"))()
+elseif game.PlaceId == 7633631511 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptGetter/Mimic3/main/TheMimic"))()
+end
